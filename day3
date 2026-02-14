@@ -1,0 +1,14 @@
+# Day 3 – Creating Database and Tables in SQL
+
+Today I learned how to create a database and tables using SQL commands.  
+I also understood data types, primary keys and constraints.
+
+---
+
+## 1. Create Database
+
+A database is a collection of tables used to store data.
+
+```sql
+CREATE DATABASE college_db;
+USE college_db;
